@@ -75,7 +75,6 @@ ensure correct routing priority.
 
 
 <img width="1372" height="868" alt="adaptersettings" src="https://github.com/user-attachments/assets/d17f9ff9-1e22-439b-abc2-ef90d7cbc26a" />
-<img width="1271" height="852" alt="pingresults" src="https://github.com/user-attachments/assets/5e51da04-2c55-4fd9-8bff-d7f8faf9083d" />
 
 ---
 
